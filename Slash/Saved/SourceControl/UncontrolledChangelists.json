@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/noe/Documents 2/JV_Noe/Learning/UE5_CPP_Course/Noe_StephenUlibarri_UE5cpp_Course/Slash/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/noe/Documents 2/JV_Noe/Learning/UE5_CPP_Course/Noe_StephenUlibarri_UE5cpp_Course/Slash/Content/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
